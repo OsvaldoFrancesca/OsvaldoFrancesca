@@ -8,10 +8,11 @@ My approach to coding is simple: **I build things to understand how they work.**
 
 ### 💻 What I'm actually working on
 
-* **Game Development:** Exploring procedural generation and C++ mechanics in **Unreal Engine 5** (see my *Animated Dungeon*).
-* **Backend & Security:** I built a **Banking System simulation** (GNB) to learn how to handle secure sessions, SQL databases, and 2FA logic without frameworks.
-* **AI & Computer Vision:** I'm experimenting with **Python & YOLO** to analyze video footage and count vehicles in real-time.
+Instead of just following tutorials, I try to build complete systems from scratch to learn the core engineering principles:
 
+* **Game Development:** Exploring advanced C++ mechanics, gameplay systems, and engine architecture in **Unreal Engine 5**.
+* **Backend & Security:** Building **secure web architectures** to master session management, relational databases, and authentication flows (like 2FA) without relying on heavy frameworks.
+* **AI & Computer Vision:** Experimenting with **Python & Deep Learning** libraries to apply computer vision models to real-world data analysis.
 ---
 
 ### 🛠 My Current Stack
@@ -33,5 +34,4 @@ I document my journey and my code here:
   <a href="https://osvaldofrancesca.github.io">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f2328?style=for-the-badge&logoColor=white" />
   </a>
-  &nbsp;
 </p>
