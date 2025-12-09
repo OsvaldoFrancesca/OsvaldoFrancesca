@@ -34,7 +34,4 @@ I document my journey and my code here:
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f2328?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:osvafra623@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
