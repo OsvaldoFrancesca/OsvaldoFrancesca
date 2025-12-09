@@ -1,42 +1,40 @@
-<div align="center">
+### Hi, I'm Osvaldo Francesca 👋
 
-  # 👋 Ciao, sono Osvaldo Francesca
+I am a **Computer Engineering Student** based in Italy.
 
-  ### Studente di Ingegneria Informatica 💻
-  
-  Mi piace capire come funzionano le cose "sotto il cofano".<br>
-  Attualmente mi sto specializzando nello sviluppo **Backend**, **C++** e **Unreal Engine**.
+My approach to coding is simple: **I build things to understand how they work.**
 
-  <br>
+---
 
-  ---
+### 💻 What I'm actually working on
 
-  ### 🛠️ Le mie Skill
+* **Game Development:** Exploring procedural generation and C++ mechanics in **Unreal Engine 5** (see my *Animated Dungeon*).
+* **Backend & Security:** I built a **Banking System simulation** (GNB) to learn how to handle secure sessions, SQL databases, and 2FA logic without frameworks.
+* **AI & Computer Vision:** I'm experimenting with **Python & YOLO** to analyze video footage and count vehicles in real-time.
 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+---
 
-  <br><br>
+### 🛠 My Current Stack
 
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+These are the tools I actually use and study:
 
-  <br><br>
+* **Core:** C++, Python, PHP
+* **Engine:** Unreal Engine 5
+* **Web:** HTML/CSS, JavaScript, SQL
+* **Tools:** Git, Visual Studio, OpenCV
 
-  ---
+---
 
-  <br>
+### 🚀 Check my progress
 
-  <a href="https://osvaldofrancesca.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visita_il_mio_Portfolio-101010?style=for-the-badge&logoColor=white" />
+I document my journey and my code here:
+
+<p align="left">
+  <a href="https://osvaldofrancesca.github.io">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f2328?style=for-the-badge&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="mailto:osvafra623@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Contattami-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-</div>
+</p>
